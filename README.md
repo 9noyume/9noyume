@@ -11,7 +11,7 @@ but that's something you'll never know
 
 ## Stats Overview
 
-![Top Langs](https://github-readme-stats-gules-omega-11.vercel.app/api/top-langs/?username=9noyume&layout=compact&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&exclude_repo=github-readme-stats,github-readme-streak-stats&count_private=true)
+![Top Langs](https://github-readme-stats-gules-omega-11.vercel.app/api/top-langs/?username=9noyume&layout=compact&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&langs_count=8&size_weight=0&count_weight=1&exclude_repo=github-readme-stats,github-readme-streak-stats&count_private=true&card_width=350)
 ![Streak](https://github-readme-streak-stats-peach-theta.vercel.app/?user=9noyume&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9)
 
 ## Currently Exploring
