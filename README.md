@@ -1,5 +1,5 @@
 <!--
-you'd see how much i adore ya, 'dore ya
+You'd see how much i adore ya, 'dore ya
 but that's something you'll never know
 -->
 
