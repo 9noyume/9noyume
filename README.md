@@ -26,13 +26,13 @@ but that's something you'll never know
 >*Still cooking something awesome...*
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-110-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-105-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.51%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 107.9 kB Used in GitHub's Storage 
+> 📦 108.0 kB Used in GitHub's Storage 
  > 
 > 🏆 251 Contributions in the Year 2026
  > 
@@ -67,18 +67,19 @@ Sunday                   111 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    26 mins             ████████████████████░░░░░   79.43 % 
-Python                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-PowerShell               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-SRecode Template         1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Other                    23 mins             ███████████████████░░░░░░   75.75 % 
+PowerShell               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Python                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+SRecode Template         0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 
 🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.00 % 
+VS Code                  31 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-runsubs-resources        30 mins             ███████████████████████░░   92.15 % 
-runsubs-projects         2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+runsubs-resources        17 mins             ██████████████░░░░░░░░░░░   55.75 % 
+runsubs-projects         7 mins              ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
+runsubs                  6 mins              █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
 ```
 
 **Timeline**
@@ -86,7 +87,7 @@ runsubs-projects         2 mins              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/9noyume/9noyume/main/assets/bar_graph.png)
 
 
- Last Updated on 03/03/2026 01:47 UTC
+ Last Updated on 04/03/2026 01:42 UTC
 <!--END_SECTION:waka-->
 
 </details>
