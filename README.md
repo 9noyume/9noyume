@@ -67,15 +67,13 @@ Sunday                   122 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PowerShell               5 mins              ████████████████████████░   97.51 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-runsubs-projects         5 mins              ████████████████████████░   97.51 % 
-runsubs-resources        0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
@@ -83,7 +81,7 @@ runsubs-resources        0 secs              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/9noyume/9noyume/main/assets/bar_graph.png)
 
 
- Last Updated on 06/04/2026 02:02 UTC
+ Last Updated on 07/04/2026 01:58 UTC
 <!--END_SECTION:waka-->
 
 </details>
