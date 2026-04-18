@@ -34,7 +34,7 @@ but that's something you'll never know
 
 > 📦 151.4 kB Used in GitHub's Storage 
  > 
-> 🏆 315 Contributions in the Year 2026
+> 🏆 317 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,49 +42,12 @@ but that's something you'll never know
  > 
 > 🔑 19 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-🌆 Daytime                127 commits         █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
-🌃 Evening                211 commits         █████████░░░░░░░░░░░░░░░░   36.32 % 
-🌙 Night                  177 commits         ████████░░░░░░░░░░░░░░░░░   30.46 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   82 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Tuesday                  77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Wednesday                74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-Thursday                 90 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Friday                   70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Saturday                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Sunday                   122 commits         █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-SRecode Template         11 mins             ██████████████████░░░░░░░   72.83 % 
-Other                    2 mins              █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-PowerShell               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-
-🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-runsubs-resources        12 mins             ███████████████████░░░░░░   76.59 % 
-runsubs-projects         3 mins              ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
-```
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/9noyume/9noyume/main/assets/bar_graph.png)
 
 
- Last Updated on 17/04/2026 02:05 UTC
+ Last Updated on 18/04/2026 01:56 UTC
 <!--END_SECTION:waka-->
 
 </details>
