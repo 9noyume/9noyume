@@ -26,7 +26,7 @@ but that's something you'll never know
 >*Still cooking something awesome...*
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.55%20million%20lines%20of%20code-blue?style=flat)
 
@@ -42,12 +42,50 @@ but that's something you'll never know
  > 
 > 🔑 19 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+🌆 Daytime                129 commits         ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
+🌃 Evening                211 commits         █████████░░░░░░░░░░░░░░░░   36.19 % 
+🌙 Night                  177 commits         ████████░░░░░░░░░░░░░░░░░   30.36 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   82 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Tuesday                  77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Wednesday                74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Thursday                 90 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Friday                   72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Saturday                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Sunday                   122 commits         █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    12 mins             ██████████░░░░░░░░░░░░░░░   39.68 % 
+SRecode Template         11 mins             ██████████░░░░░░░░░░░░░░░   38.19 % 
+Markdown                 5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+PowerShell               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+
+🔥 Editors: 
+VS Code                  31 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+runsubs-projects         18 mins             ███████████████░░░░░░░░░░   59.84 % 
+runsubs-resources        12 mins             ██████████░░░░░░░░░░░░░░░   40.16 % 
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/9noyume/9noyume/main/assets/bar_graph.png)
 
 
- Last Updated on 18/04/2026 01:56 UTC
+ Last Updated on 19/04/2026 02:09 UTC
 <!--END_SECTION:waka-->
 
 </details>
